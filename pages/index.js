@@ -35,6 +35,8 @@ const Home = () => (
         Hello, I&apos;m an indie app developer based in Japan!
       </Box>
 
+      {/* portiflio (Image and description) */}
+      
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
